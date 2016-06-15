@@ -17,8 +17,8 @@ tags:
 ---
 Le Saint-Laurent, Montréal et son port, une journée d&rsquo;été, en quelques clichés.
 
-<img src="http://localhost:4000/img/montreal-par-le-pont/stlaurent.jpg" alt="stlaurent" />
-<img src="http://localhost:4000/img/montreal-par-le-pont/bateau.jpg" alt="stlaurent" />
-<img src="http://localhost:4000/img/montreal-par-le-pont/wagons.jpg" alt="stlaurent" />
-<img src="http://localhost:4000/img/montreal-par-le-pont/jacquescartier.jpg" alt="stlaurent" />
-<img src="http://localhost:4000/img/montreal-par-le-pont/montreal_pano.jpg" alt="stlaurent" />
+<img src="/img/montreal-par-le-pont/stlaurent.jpg" alt="stlaurent" />
+<img src="/img/montreal-par-le-pont/bateau.jpg" alt="stlaurent" />
+<img src="/img/montreal-par-le-pont/wagons.jpg" alt="stlaurent" />
+<img src="/img/montreal-par-le-pont/jacquescartier.jpg" alt="stlaurent" />
+<img src="/img/montreal-par-le-pont/montreal_pano.jpg" alt="stlaurent" />
