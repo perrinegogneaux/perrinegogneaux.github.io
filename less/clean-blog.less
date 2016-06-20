@@ -7,6 +7,7 @@ body {
 	.serif;
 	font-size: 20px;
 	color: @gray-dark;
+	background-color: @gray-lightess;
 }
 
 // -- Typography
@@ -65,16 +66,18 @@ hr.small {
 	a.navbar-brand {
 		font-weight: 400;
 		letter-spacing: 1px;
+		font-size: 14px;
+		text-transform: uppercase;
 		color:@gray-darker;
-		position:absolute;
-		z-index: 1000;
+		// position:absolute;
+		// z-index: 1000;
 		top:0px;
 	}
 	.nav {
 		li {
 			a {
-				font-size: 15px;
-				font-weight: 400;
+				font-size: 12px;
+				font-weight: 700;
 				letter-spacing: 1px;
 			}
 		}
@@ -156,13 +159,30 @@ hr.small {
 	}
 }
 
+//Content
+.main-content{
+	margin-top: 100px;
+}
+
 // Posts Listing
-.listing-post-image{
+	@media only screen and (min-width: 768px) {
+		.listing-post-image{
 	display: block;
 	height: 300px;
-	width:100%;
-	background: no-repeat center center;
+	width:50%;
 	.background-cover;
+	float:right;
+	}
+.listing-post-text{
+	float: left;
+	width:50%;
+
+	.post-meta{
+		.sans-serif;
+		font-size:12px;
+		color:@gray-light;
+		}
+	}
 }
 
 // Header
@@ -242,6 +262,8 @@ hr.small {
 // Post Preview Pages
 
 .post-preview {
+	width: 100%;
+	display: block;
 	> a {
 		color: @gray-dark;
 		&:hover,
