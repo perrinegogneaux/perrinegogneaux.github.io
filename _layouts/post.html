@@ -1,33 +1,22 @@
 ---
 layout: default
 ---
+<div class="main-content">
 
-<!-- Post Header -->
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="post-heading">
-                    <h1>{{ page.title }}</h1>
-                    {% if page.subtitle %}
-                    <h2 class="subheading">{{ page.subtitle }}</h2>
-                    {% endif %}
-                    <span class="meta"><!--Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on -->{{ page.date | date: "%d-%m-%Y " }}</span>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
+  <article>
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <span class="meta"><!--Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on -->{{ page.date | date: "%d-%m-%Y " }}</span>
 
-<!-- Post Content -->
-<article>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<h1>{{ page.title }}</h1>
+{% if page.subtitle %}
+<h2 class="subheading">{{ page.subtitle }}</h2>
+{% endif %}
+
 
 				{{ content }}
 
-                <hr>
 
                 <ul class="pager">
                     {% if page.previous.url %}
@@ -46,5 +35,3 @@ layout: default
         </div>
     </div>
 </article>
-
-<hr>

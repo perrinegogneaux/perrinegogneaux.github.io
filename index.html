@@ -3,13 +3,13 @@ layout: index
 ---
 
 {% for post in paginator.posts %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-      <div class="listing-post-image" style="background-image: url('{{ site.baseurl }}/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.brand-primary }}{% endif %}')">
-      </div>
-<!-- <img src="{{post.header-img}}"/> -->
-        <div class="listing-post-text">
-          <p class="post-meta">{{ post.categories }} • {{ post.date | date: "%d-%m-%Y " }}</p>
+<div class="post-preview container">
+    <div class="col-md-7 pull-md-right col-sm-12">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        <div class="listing-post-image" style="background-image: url('{{ site.baseurl }}/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.brand-primary }}{% endif %}')"></div>
+    </div>
+    <div class="listing-post-text col-md-5">
+          <small class="post-meta">{{ post.categories }} • {{ post.date | date: "%d-%m-%Y " }}</small>
           <h2 class="post-title">
           {{ post.title }}
         </h2>
@@ -24,7 +24,6 @@ layout: index
     </a>
   </div>
 </div>
-<hr>
 {% endfor %}
 
 <!-- Pager -->
@@ -32,12 +31,12 @@ layout: index
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Suivant</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Précédant &rarr;</a>
     </li>
     {% endif %}
 </ul>
