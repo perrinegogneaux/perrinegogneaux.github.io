@@ -1,34 +1,18 @@
 <!-- Navigation -->
 <!-- Collect the nav links, forms, and other content for toggling -->
-
-
-  <div class="collapse container-fluid bg-inverse" id="Navigation">
-  <div class="container">
-
-    <ul class="nav navbar-nav navbar-custom">
-        <li>
-            <a href="{{ site.baseurl }}/">Accueil</a>
-        </li>
-        {% for page in site.pages %}{% if page.title %}
-{% if page.url != '/404.html' %}
-        <li>
-            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        </li>
-{% endif %}
-        {% endif %}{% endfor %}
-    </ul>
-  </div>
-</div>
-
-<nav class="navbar navbar-light bg-faded">
-    <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header page-scroll">
-          <a class="pull-right" type="button" data-toggle="collapse" data-target="#Navigation">
-&#9776;
-</a>
-            <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
-        </div>
-      </div>
+<nav class="navbar navbar-custom">
+  <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <ul class="nav navbar-nav pull-right">
+          <li class="nav-item">
+              <a class="nav-link" href="{{ site.baseurl }}/">Journal</a>
+          </li>
+          {% for page in site.pages %}{% if page.title %}
+  {% if page.url != '/404.html' %}
+          <li class="nav-item">
+              <a class="nav-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          </li>
+  {% endif %}
+          {% endif %}{% endfor %}
+      </ul>
 
 </nav>

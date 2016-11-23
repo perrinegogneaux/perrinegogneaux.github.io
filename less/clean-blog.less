@@ -7,6 +7,7 @@ body {
 	font-size: 20px;
 	color: @gray-dark;
 	background-color: @gray-lightess;
+	.sans-serif
 }
 
 // -- Typography
@@ -75,23 +76,25 @@ hr.small {
 
 a.navbar-brand{
 	float: left;
-padding-top: .5rem;
-padding-bottom: .5rem;
+// padding-top: .5rem;
+// padding-bottom: .5rem;
+color: #FF8181;
 margin-right: 1rem;
 font-size: 1rem;
-font-weight: 300;
+font-weight: 500;
 letter-spacing: 1px;
 }
-	.nav.navbar-nav.navbar-custom {
-		padding:(@themeconstant*3) 0px;
+	.navbar.navbar-custom {
+		background: @brand-primary;
+		border-radius: 0px;
 		li {
-			a {
-				font-size: (@themeconstant*4);
-				letter-spacing: 2px;
-				font-weight: 200;
-				color: @gray-light;
+			a.nav-link {
+				letter-spacing: 1px;
+				border-radius: 0px;
+				font-size: 0.9rem;
+				font-weight: 500;
+				color: #FF8181;
 				display: block;
-				padding:(@themeconstant*3) 0px;
 				&:hover,
 				&:focus {
 					color: @white;
