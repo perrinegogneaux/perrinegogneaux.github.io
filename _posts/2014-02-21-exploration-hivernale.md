@@ -19,22 +19,22 @@ tags:
 ---
 La neige a pris possession d&rsquo;une ruine à Ivry-sur-le-lac.
 
-<img src="../img/exploration-hivernale/dsc_0236.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0261.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0150.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0153.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0182.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0171.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0173.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0240.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0163.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0137.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0189.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0164.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0239.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0234.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0208.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0147.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0131.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0253.jpg" alt="DSC_0236" />
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0110.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0236.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0261.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0150.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0153.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0182.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0171.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0173.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0240.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0163.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0137.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0189.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0164.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0239.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0234.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0208.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0147.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0131.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0253.jpg" alt="DSC_0236" />
+<img src="/img/exploration-hivernale/dsc_0110.jpg" alt="DSC_0236" />

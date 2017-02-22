@@ -32,4 +32,4 @@ La caméra de mon téléphone ne rend pas justice à cette luminosité.
 
 À voir donc, en vrai.
 
-<img src="http://localhost:4000/img/pierre-dorion/pdorionfinal.jpg"/>
+<img src="/img/pierre-dorion/pdorionfinal.jpg"/>

@@ -50,24 +50,24 @@ Dans cette optique, le design, c&rsquo;est bel et bien du contenu. L&rsquo;édit
 
 À l&rsquo;instar des étudiants de la Montagne Rouge, le designer d&rsquo;aujourd&rsquo;hui et de demain doit prendre acte des enjeux sociaux, actuels et futurs, et mettre sa créativité à son service. Son pouvoir politique et social réside dans sa faculté à interpréter ces enjeux, dans son refus de l&rsquo;immobilisme et dans la pertinence de sa créativité, au service du changement. Son pouvoir est donc immense et précieux : le designer contemporain ne peut pas créer dans le silence, mais plutôt affirmer sa présence et sa vision au monde. En interrogeant les acquis, en approfondissant des réflexions et en prenant possession des lieux, ses pinceaux, crayons et trackpads deviendront les outils esthétiques privilégiés du changement et les symboles d&rsquo;une affirmation collective.
 
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0191.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0181.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0184.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0164.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0179.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0185.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0171.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0173.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0174.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0175.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0183.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0155.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0154.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0150.jpg"  alt="École de la Montagne Rouge" /><img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0159.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0160.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0162.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0187.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0188.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0182.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0166.jpg"  alt="École de la Montagne Rouge" />
-<img src="http://localhost:4000/img/le-prochain-rene-levesque-sera-designer/DSC_0149.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0191.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0181.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0184.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0164.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0179.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0185.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0171.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0173.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0174.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0175.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0183.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0155.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0154.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0150.jpg"  alt="École de la Montagne Rouge" /><img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0159.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0160.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0162.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0187.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0188.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0182.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0166.jpg"  alt="École de la Montagne Rouge" />
+<img src="/img/le-prochain-rene-levesque-sera-designer/DSC_0149.jpg"  alt="École de la Montagne Rouge" />

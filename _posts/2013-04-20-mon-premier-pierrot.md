@@ -25,12 +25,12 @@ tags:
 
 
 
-  <img title="etape1" src="http://localhost:4000/img/mon-premier-pierrot/etape1.jpg" alt="" />
-  <img title="etape2" src="http://localhost:4000/img/mon-premier-pierrot/etape2.jpg" alt="" />
-  <img title="etape3" src="http://localhost:4000/img/mon-premier-pierrot/etape3.jpg" alt=""/>
-  <img title="etape4" src="http://localhost:4000/img/mon-premier-pierrot/etape4.jpg" alt=""/>
-  <img title="etape5" src="http://localhost:4000/img/mon-premier-pierrot/etape5.jpg" alt=""/>
-  <img title="etape6" src="http://localhost:4000/img/mon-premier-pierrot/etape6.jpg" alt=""/>
-  <img title="etape7" src="http://localhost:4000/img/mon-premier-pierrot/etape7.jpg" alt="" />
-  <img title="etape8" src="http://localhost:4000/img/mon-premier-pierrot/etape8compo.jpg" alt=""/>
-  <img src="http://localhost:4000/img/mon-premier-pierrot/etape9.jpg" />
+  <img title="etape1" src="/img/mon-premier-pierrot/etape1.jpg" alt="" />
+  <img title="etape2" src="/img/mon-premier-pierrot/etape2.jpg" alt="" />
+  <img title="etape3" src="/img/mon-premier-pierrot/etape3.jpg" alt=""/>
+  <img title="etape4" src="/img/mon-premier-pierrot/etape4.jpg" alt=""/>
+  <img title="etape5" src="/img/mon-premier-pierrot/etape5.jpg" alt=""/>
+  <img title="etape6" src="/img/mon-premier-pierrot/etape6.jpg" alt=""/>
+  <img title="etape7" src="/img/mon-premier-pierrot/etape7.jpg" alt="" />
+  <img title="etape8" src="/img/mon-premier-pierrot/etape8compo.jpg" alt=""/>
+  <img src="/img/mon-premier-pierrot/etape9.jpg" />
