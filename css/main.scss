@@ -1,0 +1,204 @@
+---
+---
+@import "variables";
+@import "bootstrap/bootstrap";
+
+body{
+  background-color: $bg;
+  font-family: $first-font-family;
+  font-size: $base-font-size;
+}
+
+h1{
+  font-size: 5em;
+  line-height: 1em;
+  font-weight: 800;
+  letter-spacing: 1px;
+  color: $brand-primary;
+  margin-bottom: 4*$base-pixels;
+}
+
+h2{
+  font-size: 4.2em;
+  line-height: 1em;
+  font-weight: 800;
+  letter-spacing: 1px;
+  color: $brand-primary;
+}
+
+.navbar-brand{
+  font-size: 1.5em;
+  color:$brand-primary;
+  line-height: 1em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  position: fixed;
+  z-index: 10000;
+  top:7*$base-pixels;
+  padding: 0;
+}
+
+
+.navbar-custom{
+  background-color: #fff;
+  height: 100vh;
+  position: fixed;
+  right:0px;
+  padding-top: 15*$base-pixels;
+
+    .nav-link{
+      font-size: 1.5em;
+      line-height: 1em;
+      font-weight: 300;
+      letter-spacing: 0.1em;
+      color: $gray;
+      padding: 0 0 0 10*$base-pixels;
+      margin-bottom: 4*$base-pixels;
+
+      &:hover{
+        color:$brand-primary;
+      }
+    }
+}
+
+.main-content{
+  padding-top: 15*$base-pixels;
+}
+
+a.post-listing{
+  margin-bottom: 10*$base-pixels;
+  display: block;
+
+  &:hover{
+    text-decoration: none;
+
+      h2.post-title{
+        opacity: 0.7;
+      }
+      .post-image{
+        opacity: 1;
+      }
+
+  }
+
+  .post-meta{
+      color: $gray-light;
+      margin-bottom: 1*$base-pixels;
+      display: block;
+  }
+  h2.post-title{
+    width:80%;
+    z-index: 2000;
+    position: relative;
+  }
+  .post-image{
+    height:49*$base-pixels;
+    background-size: cover;
+    display: block;
+    opacity: 0.7;
+    margin-top: -5*$base-pixels;
+    z-index: 1000;
+    position: relative;
+  }
+  .post-description{
+    font-size: 1.5em;
+    font-weight: 300;
+    color: $gray;
+    margin-top: 2*$base-pixels;
+  }
+
+}
+
+.in-post{
+
+    h2{
+      font-size: 1.8em;
+      line-height: 1.25em;
+      font-weight: 500;
+      color: $gray-dark;
+      letter-spacing: 0px;
+    }
+
+    p{
+      font-size: 1.5em;
+      line-height: 1.75em;
+      font-weight: 300;
+      color: $gray;
+      margin: 0 0 7*$base-pixels;
+    }
+
+    p img {
+      width:100%;
+      margin: 2*$base-pixels 0 0;
+    }
+}
+
+.in-page{
+    h1{
+      color: $brand-primary;
+      font-size: 7em;
+      font-weight: 900;
+      opacity: 0.05;
+      letter-spacing: -1px;
+      transform: rotate(90deg);
+      transform-origin: left top 0;
+      position: fixed;;
+    }
+    h2{
+      font-size: 1.8em;
+      line-height: 1.25em;
+      font-weight: 500;
+      color: $gray-dark;
+      letter-spacing: 0px;
+    }
+
+    p{
+      font-size: 2em;
+      line-height: 1.75em;
+      font-weight: 700;
+      color: $brand-primary;
+      margin: 0 0 7*$base-pixels;
+    }
+
+    p img {
+      width:100%;
+      margin: 2*$base-pixels 0 0;
+    }
+}
+
+ul.pager{
+  padding: 0;
+  list-style-type: none;
+  font-size: 1.5em;
+  height: 70px;
+
+  li.previous{
+    float:left;
+
+    a{
+      color:$brand-primary;
+    }
+
+  }
+
+  li.next{
+    float:right;
+  }
+  a{
+    color:$brand-primary;
+  }
+}
+
+.social{
+  position:fixed;
+  bottom: 20px;
+  padding: 0 0 0 70px;
+}
+
+footer{
+  clear: both;
+
+  p{
+    color:$gray-light;
+  }
+}

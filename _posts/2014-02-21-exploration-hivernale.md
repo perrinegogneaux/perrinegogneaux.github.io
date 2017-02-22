@@ -7,9 +7,7 @@ layout: post
 guid: http://localhost:4000/?p=1036
 permalink: "/exploration-hivernale/"
 header-img: "img/exploration-hivernale/dsc_0182.jpg"
-categories:
-  - Aventure
-  - Événement
+categories: Aventure Événement
 tags:
   - découverte
   - exploration
@@ -21,7 +19,7 @@ tags:
 ---
 La neige a pris possession d&rsquo;une ruine à Ivry-sur-le-lac.
 
-<img src="http://localhost:4000/img/exploration-hivernale/dsc_0236.jpg" alt="DSC_0236" />
+<img src="../img/exploration-hivernale/dsc_0236.jpg" alt="DSC_0236" />
 <img src="http://localhost:4000/img/exploration-hivernale/dsc_0261.jpg" alt="DSC_0236" />
 <img src="http://localhost:4000/img/exploration-hivernale/dsc_0150.jpg" alt="DSC_0236" />
 <img src="http://localhost:4000/img/exploration-hivernale/dsc_0153.jpg" alt="DSC_0236" />
