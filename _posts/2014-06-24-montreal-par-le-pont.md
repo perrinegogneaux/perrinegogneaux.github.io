@@ -5,7 +5,6 @@ description: "Le Saint-Laurent, Montréal et son port, une journée d&rsquo;ét�
 date: 2014-06-24 09:53:00
 author: "Perrine Gogneaux"
 layout: post
-guid: "http://localhost:4000/?p=1077"
 permalink: "/montreal-par-le-pont/"
 header-img: "img/montreal-par-le-pont/stlaurent.jpg"
 categories:
