@@ -1,5 +1,4 @@
 ---
-id: 1077
 title: "Montréal par le pont"
 description: "Le Saint-Laurent, Montréal et son port, une journée d&rsquo;été, en quelques clichés"
 date: 2014-06-24 09:53:00

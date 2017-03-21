@@ -4,7 +4,7 @@ title: Rosemont-La Petite-Patrie, Montréal, juin 2012. Un quartier, trois coule
 date: 2012-06-28T18:50:34+00:00
 author: Perrine
 layout: post
-guid: http://localhost:8888/?p=109
+header-img: "img/rosemont/photo1.jpg"
 permalink: /rosemont-la-petite-patrie-montreal-juin-2012-un-quartier-trois-couleurs/
 categories:
   - Événement
@@ -17,34 +17,14 @@ tags:
 ---
 Le mois de juin est riche en rassemblements dans Rosemont-la Petite Patrie. Que la cause soit sociale, culturelle (et politique) ou sportive, tous les prétextes sont bons pour afficher ses couleurs. Bravo à toutes ces mobilisations et à cette joie d&rsquo;être en foule, qui nous montrent que la collectivité existe encore.<!--more-->
 
-<div id="attachment_110" style="width: 573px" class="wp-caption aligncenter">
-  <a href="http://localhost:8888/wp-content/uploads/2012/06/photo.jpg"><img class="size-full wp-image-110   " title="Montréal, la rouge, la contestataire, est encore et toujours solidaire avec le mouvement étudiant." src="http://localhost:8888/wp-content/uploads/2012/06/photo.jpg" alt="Montréal, la rouge, la contestataire, est encore et toujours solidaire avec le mouvement étudiant." width="563" /></a>
-  
-  <p class="wp-caption-text">
-    Montréal, la rouge, la contestataire, est encore et toujours solidaire avec le mouvement étudiant.
-  </p>
-</div>
+<img title="Montréal, la rouge, la contestataire, est encore et toujours solidaire avec le mouvement étudiant." src="/img/rosemont/photo.jpg" alt="Montréal, la rouge, la contestataire, est encore et toujours solidaire avec le mouvement étudiant." />
 
-&nbsp;
+Montréal, la rouge, la contestataire, est encore et toujours solidaire avec le mouvement étudiant.
 
-&nbsp;
+<img title="Montréal, la bleue, la fière, fête son pays, le Québec." src="/img/rosemont/photo1.jpg" alt="Montréal, la bleue, la fière, fête son pays, le Québec." width="563" />
 
-&nbsp;
+Montréal, la bleue, la fière, fête son pays, le Québec.
 
-<div id="attachment_111" style="width: 573px" class="wp-caption aligncenter">
-  <a href="http://localhost:8888/wp-content/uploads/2012/06/photo1.jpg"><img class="size-full wp-image-111  " title="Montréal, la bleue, la fière, fête son pays, le Québec." src="http://localhost:8888/wp-content/uploads/2012/06/photo1.jpg" alt="Montréal, la bleue, la fière, fête son pays, le Québec." width="563" /></a>
-  
-  <p class="wp-caption-text">
-    Montréal, la bleue, la fière, fête son pays, le Québec.
-  </p>
-</div>
+<img title="Montréal, la vert-blanc-rouge, l'Italienne, fête bruyamment ses héros, rois (j'exagère) du ballon rond." src="/img/rosemont/photo3.jpg" alt="Montréal, la vert-blanc-rouge, l'Italienne, fête bruyamment ses héros, rois (j'exagère) du ballon rond.." />
 
-&nbsp;
-
-<div id="attachment_113" style="width: 573px" class="wp-caption aligncenter">
-  <a href="http://localhost:8888/wp-content/uploads/2012/06/photo3.jpg"><img class="size-full wp-image-113  " title="Montréal, la vert-blanc-rouge, l'Italienne, fête bruyamment ses héros, rois (j'exagère) du ballon rond." src="http://localhost:8888/wp-content/uploads/2012/06/photo3.jpg" alt="Montréal, la vert-blanc-rouge, l'Italienne, fête bruyamment ses héros, rois (j'exagère) du ballon rond.." width="563" /></a>
-  
-  <p class="wp-caption-text">
-    Montréal, la vert-blanc-rouge, l&rsquo;Italienne, fête bruyamment ses héros, rois (j&rsquo;exagère) du ballon rond..
-  </p>
-</div>
+Montréal, la vert-blanc-rouge, l&rsquo;Italienne, fête bruyamment ses héros, rois (j&rsquo;exagère) du ballon rond.

@@ -18,5 +18,5 @@ tags:
   - Saul Bass
 ---
 On est le vendredi 12 avril et je n&rsquo;avais pas envie de revoir la neige.
-<img title="bonjourtristesse" src="/img/bonjour-tristesse/bonjourtristesse.png" alt="" /></a>
+<img title="bonjourtristesse" src="/img/bonjour-tristesse/bonjourtristesse.png" alt="" />
     Saul Bass, affiche du film &laquo;&nbsp;Bonjour tristesse&nbsp;&raquo; de Otto Preminger, 1958.

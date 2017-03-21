@@ -4,17 +4,8 @@ title: Parenthèse
 date: 2011-08-25T20:36:00+00:00
 author: Perrine
 layout: post
-guid: http://localhost:8888/?p=11
+header-img: "img/parenthese/IMG_1765.jpg"
 permalink: /parenthese/
-blogger_blog:
-  - perrine-gogneaux.blogspot.com
-  - perrine-gogneaux.blogspot.com
-blogger_author:
-  - Perrine Gogneauxhttp://www.blogger.com/profile/17570723527679166863noreply@blogger.com
-  - Perrine Gogneauxhttp://www.blogger.com/profile/17570723527679166863noreply@blogger.com
-blogger_permalink:
-  - /2011/08/parenthese.html
-  - /2011/08/parenthese.html
 categories:
   - Aventure
 tags:
@@ -22,6 +13,8 @@ tags:
   - Parc du Poisson Blanc
   - plein air
 ---
+<img title="Parc du poisson Blanc" src="/img/parenthese/IMG_1765.jpg" alt="Parc du poisson Blanc" />
+
 L&rsquo;été est bien entamé, les premières soirées fraîches pointent déjà le bout de leur nez. Cependant, il n&rsquo;est pas trop tard pour partir changer d&rsquo;air, le temps d&rsquo;un week-end. Voici les dix raisons pour vous laisser tenter par 2 jours de canot camping au Parc régional du Poisson Blanc.<!--more-->
 
   * Pour l&rsquo;accueil, la prise en charge et le service, efficaces et sympathiques. À votre arrivée sur le site, vous serez très rapidement mis à l&rsquo;eau; les canots sont au quai et n&rsquo;attendent plus qu&rsquo;à être chargés,
@@ -35,20 +28,10 @@ L&rsquo;été est bien entamé, les premières soirées fraîches pointent déj�
   * Pour revenir à Montréal fatigué mais ressourcé,
   * Enfin, pour le faible prix qu&rsquo;il vous en coûtera : contrairement aux sites de la sepaq, l&rsquo;accès au parc et le camping sont gratuits et on vous chargera 40$ par canot, pour vos deux journées de rame.
 
-<p style="text-align: left;">
-  <a href="http://localhost:8888/wp-content/uploads/2011/08/IMG_1783.jpg"><img class="aligncenter size-large wp-image-150" title="IMG_1783" src="http://localhost:8888/wp-content/uploads/2011/08/IMG_1783-1024x768.jpg" alt="" width="563" /></a>
-</p>
+<img title="Parc du poisson Blanc" src="/img/parenthese/IMG_1783.jpg" alt="Parc du poisson Blanc" />
 
-<div style="text-align: left;">
-  <p>
-    Pour plus d&rsquo;infos sur le parc et pour réserver, visitez le <a href="http://www.parcdupoissonblanc.com/">site</a> du Parc.
-  </p>
-  
-  <p>
-    À 3h30 de Montréal, à une centaine de kilomètres au Nord de Gatineau, le lac du Poisson Blanc a été créé en 1930 avec la construction du barrage sur le rapide des Cèdres destiné à régulariser les eaux entre Notre-Dame-du-Laus et Mont-Laurier.
-  </p>
-  
-  <p>
-    Situé sur la localité de Notre-Dame-du-Laus, le Parc régional du Poisson Blanc a été créé en 2009 par la Corporation du Parc du Poisson Blanc, l’organisme responsable du développement récréotouristique de Notre-Dame-du-Laus.
-  </p>
-</div>
+Pour plus d&rsquo;infos sur le parc et pour réserver, visitez le <a href="http://www.parcdupoissonblanc.com/">site</a> du Parc.
+
+À 3h30 de Montréal, à une centaine de kilomètres au Nord de Gatineau, le lac du Poisson Blanc a été créé en 1930 avec la construction du barrage sur le rapide des Cèdres destiné à régulariser les eaux entre Notre-Dame-du-Laus et Mont-Laurier.
+
+Situé sur la localité de Notre-Dame-du-Laus, le Parc régional du Poisson Blanc a été créé en 2009 par la Corporation du Parc du Poisson Blanc, l’organisme responsable du développement récréotouristique de Notre-Dame-du-Laus.

@@ -10,19 +10,17 @@ permalink: /pierre-dorion-au-macm-un-hommage-en-couleurs/
 categories:
   - Événement
 ---
-Jusqu&rsquo;au 6 janvier, le Musée d&rsquo;art contemporain de Montréal présente le travail de Pierre Dorion. Véritable bilan critique de sa peinture, l&rsquo;exposition réunit plus de 70 oeuvres réalisées depuis le milieu des années 1990.<!--more-->
+Jusqu&rsquo;au 6 janvier, le Musée d&rsquo;art contemporain de Montréal présente le travail de Pierre Dorion. Véritable bilan critique de sa peinture, l&rsquo;exposition réunit plus de 70 oeuvres réalisées depuis le milieu des années 1990.
 
 ## Rencontre entre la photographie et la peinture
+La peinture de Pierre Dorion est le reflet de sa relation à l&rsquo;espace. L&rsquo;artiste est attiré par les intérieurs et ses objets; son travail est le fruit d&rsquo;une fascination pour les espaces autant que d&rsquo;une préoccupation pour les détails d&rsquo;architecture.
 
-    La peinture de Pierre Dorion est le reflet de sa relation à l&rsquo;espace. L&rsquo;artiste est attiré par les intérieurs et ses objets; son travail est le fruit d&rsquo;une fascination pour les espaces autant que d&rsquo;une préoccupation pour les détails d&rsquo;architecture.
+Dans ce processus de création, la photographie tient une place particulière, à la source de sa démarche et son oeuvre se veut une rencontre entre la peinture et la photographie.
 
-    Dans ce processus de création, la photographie tient une place particulière, à la source de sa démarche et son oeuvre se veut une rencontre entre la peinture et la photographie.
-
-    Pourtant ses tableaux ne sont pas photoréalistes. Loin de là.
-
+Pourtant ses tableaux ne sont pas photoréalistes. Loin de là.
 
 ## De l&rsquo;abstraction à la figuration
-  Pierre Dorion procède à une réduction de la photographie : il laisse de côté les détails qu&rsquo;elle offre et supprime les repères spatiaux au profit de l&rsquo;abstraction. L&rsquo;artiste bascule sans cesse entre l&rsquo;abstraction des espaces qu&rsquo;il représente et la figuration.
+Pierre Dorion procède à une réduction de la photographie : il laisse de côté les détails qu&rsquo;elle offre et supprime les repères spatiaux au profit de l&rsquo;abstraction. L&rsquo;artiste bascule sans cesse entre l&rsquo;abstraction des espaces qu&rsquo;il représente et la figuration.
 
 La géométrie est également très présente dans sa démarche. Les formes sont simplifiées et les scènes épurées. Il en résulte un style graphique et minimaliste qui se reflète autant dans les sujets choisis que dans la composition.
 
