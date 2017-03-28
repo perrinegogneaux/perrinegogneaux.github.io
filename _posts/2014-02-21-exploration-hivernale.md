@@ -19,7 +19,6 @@ tags:
 La neige a pris possession d&rsquo;une ruine à Ivry-sur-le-lac.
 
 <img src="/img/exploration-hivernale/dsc_0236.jpg" alt="DSC_0236" />
-<img src="/img/couleurs-du-sud/1DSC_0413.jpg"  alt="1DSC_0413" />
 <img src="/img/exploration-hivernale/dsc_0261.jpg" alt="DSC_0236" />
 <img src="/img/exploration-hivernale/dsc_0150.jpg" alt="DSC_0236" />
 <img src="/img/exploration-hivernale/dsc_0153.jpg" alt="DSC_0236" />
