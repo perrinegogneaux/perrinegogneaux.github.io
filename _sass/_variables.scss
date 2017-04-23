@@ -11,6 +11,8 @@ $gray-dark:              #562381;
 $gray:                   lighten($gray-base, 40%);
 $gray-light:             lighten($gray-base, 60%);
 $gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee
+$white:                #fff !default; //
+
 
 $brand-primary:         #742eb1 ;
 $brand-success:         #5cb85c !default;
@@ -27,3 +29,7 @@ $first-font-family:     'Heebo', sans-serif;
 $base-font-size:        14px;
 
 $small:                 0.85em;
+
+// animation
+
+$animation-duration: 0.7s;

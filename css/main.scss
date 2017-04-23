@@ -2,6 +2,8 @@
 ---
 @import "variables";
 @import "bootstrap/bootstrap";
+@import 'mixins'; // custom mixins
+@import 'layout'; // responsive grid and media queries
 
 body{
   background-color: $bg;
@@ -26,44 +28,43 @@ h2{
   color: $brand-primary;
 }
 
-
-.navbar-brand{
-  font-size: 1.5em;
-  color:$brand-primary;
-  line-height: 1em;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  position: fixed;
-  z-index: 10000;
-  top:7*$base-pixels;
-  padding: 0;
-}
-
-
 .navbar-custom{
   background-color: #fff;
   height: 100vh;
   position: fixed;
   right:0px;
-  padding-top: 15*$base-pixels;
+  padding-top: 10*$base-pixels;
 
     .nav-link{
-      font-size: 1.5em;
+      font-size: 1.25em;
       line-height: 1em;
       font-weight: 300;
       letter-spacing: 0.1em;
       color: $gray;
-      padding: 0 0 0 10*$base-pixels;
+      padding: 0 0 0 5*$base-pixels;
       margin-bottom: 4*$base-pixels;
 
       &:hover{
         color:$brand-primary;
       }
     }
+    .navbar-brand{
+      color:$brand-primary;
+      text-transform: uppercase;
+    }
+    .social{
+      position:fixed;
+      bottom: 10px;
+      padding: 0 0 0 5*$base-pixels;
+
+      a{
+        color:$brand-primary;
+      }
+    }
 }
 
 .main-content{
-  padding-top: 15*$base-pixels;
+  padding-top: 10*$base-pixels;
 }
 
 a.post-listing{
@@ -148,7 +149,7 @@ a.post-listing{
     h1{
       color: $brand-primary;
       font-size: 7em;
-      font-weight: 900;
+      font-weight: 800;
       opacity: 0.05;
       letter-spacing: -1px;
       transform: rotate(90deg);
@@ -166,7 +167,7 @@ a.post-listing{
     p{
       font-size: 2em;
       line-height: 1.75em;
-      font-weight: 700;
+      font-weight: 800;
       color: $brand-primary;
       margin: 0 0 7*$base-pixels;
     }
@@ -200,11 +201,6 @@ ul.pager{
   }
 }
 
-.social{
-  position:fixed;
-  bottom: 20px;
-  padding: 0 0 0 70px;
-}
 
 footer{
   clear: both;
@@ -212,4 +208,222 @@ footer{
   p{
     color:$gray-light;
   }
+}
+a.navbar-brand{
+  color:$brand-primary;
+  text-transform: uppercase;
+  font-size: 1.25em;
+  line-height: 1em;
+  font-weight: 300;
+  letter-spacing: 0.1em;
+  padding-top: 5*$base-pixels;
+}
+
+.cd-nav-trigger {
+  position: fixed;
+  z-index: 4000;
+  right: 2*$base-pixels;
+  top: 2*$base-pixels;
+  height: 7*$base-pixels;
+  width: 7*$base-pixels;
+  background-color: $brand-primary;
+  border-radius: 50%;
+  /* image replacement */
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+  -webkit-transition: -webkit-transform 0.5s;
+  -moz-transition: -moz-transform 0.5s;
+  transition: transform 0.5s;
+}
+.cd-nav-trigger .cd-nav-icon {
+  /* icon created in CSS */
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  bottom: auto;
+  right: auto;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -o-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  width: 3*$base-pixels;
+  height: 2px;
+  background-color: $white;
+}
+.cd-nav-trigger .cd-nav-icon::before, .cd-nav-trigger .cd-nav-icon:after {
+  /* upper and lower lines of the menu icon */
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-color: inherit;
+  /* Force Hardware Acceleration in WebKit */
+  -webkit-transform: translateZ(0);
+  -moz-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  -o-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transition: -webkit-transform 0.5s, width 0.5s, top 0.3s;
+  -moz-transition: -moz-transform 0.5s, width 0.5s, top 0.3s;
+  transition: transform 0.5s, width 0.5s, top 0.3s;
+}
+.cd-nav-trigger .cd-nav-icon::before {
+  -webkit-transform-origin: right top;
+  -moz-transform-origin: right top;
+  -ms-transform-origin: right top;
+  -o-transform-origin: right top;
+  transform-origin: right top;
+  -webkit-transform: translateY(-6px);
+  -moz-transform: translateY(-6px);
+  -ms-transform: translateY(-6px);
+  -o-transform: translateY(-6px);
+  transform: translateY(-6px);
+}
+.cd-nav-trigger .cd-nav-icon::after {
+  -webkit-transform-origin: right bottom;
+  -moz-transform-origin: right bottom;
+  -ms-transform-origin: right bottom;
+  -o-transform-origin: right bottom;
+  transform-origin: right bottom;
+  -webkit-transform: translateY(6px);
+  -moz-transform: translateY(6px);
+  -ms-transform: translateY(6px);
+  -o-transform: translateY(6px);
+  transform: translateY(6px);
+}
+
+.cd-nav-trigger svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.cd-nav-trigger circle {
+  /* circle border animation */
+  -webkit-transition: stroke-dashoffset 0.4s 0s;
+  -moz-transition: stroke-dashoffset 0.4s 0s;
+  transition: stroke-dashoffset 0.4s 0s;
+}
+.navigation-is-open .cd-nav-trigger {
+  /* rotate trigger when navigation becomes visible */
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+.navigation-is-open .cd-nav-trigger .cd-nav-icon::after,
+.navigation-is-open .cd-nav-trigger .cd-nav-icon::before {
+  /* animate arrow --> from hamburger to arrow */
+  width: 50%;
+  -webkit-transition: -webkit-transform 0.5s, width 0.5s;
+  -moz-transition: -moz-transform 0.5s, width 0.5s;
+  transition: transform 0.5s, width 0.5s;
+}
+.navigation-is-open .cd-nav-trigger .cd-nav-icon::before {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.navigation-is-open .cd-nav-trigger .cd-nav-icon::after {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+.no-touch .navigation-is-open .cd-nav-trigger:hover .cd-nav-icon::after, .no-touch .navigation-is-open .cd-nav-trigger:hover .cd-nav-icon::before {
+  top: 0;
+}
+.navigation-is-open .cd-nav-trigger circle {
+  stroke-dashoffset: 0;
+  -webkit-transition: stroke-dashoffset 0.4s 0.3s;
+  -moz-transition: stroke-dashoffset 0.4s 0.3s;
+  transition: stroke-dashoffset 0.4s 0.3s;
+}
+
+.cd-nav {
+  position: fixed;
+  z-index: 3000;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: $white;
+  visibility: hidden;
+  -webkit-transition: visibility 0s 0.7s;
+  -moz-transition: visibility 0s 0.7s;
+  transition: visibility 0s 0.7s;
+}
+.cd-nav .cd-navigation-wrapper {
+  /* all navigation content */
+  height: 100%;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 40px 5% 40px calc(5% + 80px);
+  /* Force Hardware Acceleration in WebKit */
+  -webkit-transform: translateZ(0);
+  -moz-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  -o-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  transform: translateX(-50%);
+  -webkit-transition: -webkit-transform 0.7s;
+  -moz-transition: -moz-transform 0.7s;
+  transition: transform 0.7s;
+  -webkit-transition-timing-function: cubic-bezier(0.86, 0.01, 0.77, 0.78);
+  -moz-transition-timing-function: cubic-bezier(0.86, 0.01, 0.77, 0.78);
+  transition-timing-function: cubic-bezier(0.86, 0.01, 0.77, 0.78);
+}
+.navigation-is-open .cd-nav {
+  visibility: visible;
+  -webkit-transition: visibility 0s 0s;
+  -moz-transition: visibility 0s 0s;
+  transition: visibility 0s 0s;
+}
+.navigation-is-open .cd-nav .cd-navigation-wrapper {
+  -webkit-transform: translateX(0);
+  -moz-transform: translateX(0);
+  -ms-transform: translateX(0);
+  -o-transform: translateX(0);
+  transform: translateX(0);
+  -webkit-transition: -webkit-transform 0.5s;
+  -moz-transition: -moz-transform 0.5s;
+  transition: transform 0.5s;
+  -webkit-transition-timing-function: cubic-bezier(0.82, 0.01, 0.77, 0.78);
+  -moz-transition-timing-function: cubic-bezier(0.82, 0.01, 0.77, 0.78);
+  transition-timing-function: cubic-bezier(0.82, 0.01, 0.77, 0.78);
+}
+
+.no-js main {
+  height: auto;
+  overflow: visible;
+}
+
+.no-js .cd-nav {
+  position: static;
+  visibility: visible;
+}
+.no-js .cd-nav .cd-navigation-wrapper {
+  height: auto;
+  overflow: visible;
+  padding: 100px 5%;
+  -webkit-transform: translateX(0);
+  -moz-transform: translateX(0);
+  -ms-transform: translateX(0);
+  -o-transform: translateX(0);
+  transform: translateX(0);
 }
