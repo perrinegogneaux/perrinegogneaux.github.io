@@ -18,6 +18,11 @@ h1{
   letter-spacing: 1px;
   color: $brand-primary;
   margin-bottom: 4*$base-pixels;
+
+  @media (max-width: 768px){
+    font-size: 2em;
+    line-height: 1em;
+  }
 }
 
 h2{
